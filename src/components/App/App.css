@@ -1,4 +1,14 @@
-.App {
+.container {
+  background-color: #c2e7da;
+  width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.main-header {
   text-align: center;
-  background-color: aqua;
+}
+
+.main-title {
+  font-weight: 500;
 }
